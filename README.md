@@ -14,7 +14,7 @@
 
 ### Podemos ser amigos en discord:
 
-<a href="https://discord.gg/spidey1912#8598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spidey1912#8598" height="30" width="40" />
+<a href="https://discord.gg/spidey1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spidey1912#8598" height="30" width="40" />
 
 <br/>
 
